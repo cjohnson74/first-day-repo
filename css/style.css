@@ -2,16 +2,28 @@
     background-color: lemonchiffon;
 }
 
+.customBlue {
+    color: blue;
+}
+
 #paragraph-1 {
     color: darkslateblue;
     background-color: orangered;
 }
 
-.orangeText {
-    color: orange;
-}
-
 .main-image{
     width: 200px;
     height: 200px;
+}
+
+.firstList {
+    background-color: tan;
+}
+
+.secondList {
+    background-color: turquoise;
+}
+
+.thirdList {
+    background-color: tomato;
 }

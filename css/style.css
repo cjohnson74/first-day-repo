@@ -2,7 +2,7 @@
     background-color: yellowgreen;
 }
 
-.h2 {
+.heading2 {
     color: blue;
 }
 
@@ -11,14 +11,14 @@
     height: 200px;
 }
 
-.firstList {
+#email {
     background-color: tan;
 }
 
-.secondList {
+#github {
     background-color: turquoise;
 }
 
-.thirdList {
+#portfolio {
     background-color: tomato;
 }
